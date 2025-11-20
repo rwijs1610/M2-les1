@@ -1,3 +1,4 @@
-# M2-les1
+# Module 2 les 1
 
-in deze les gaan we leren te werken met branches 
+## Branches
+
